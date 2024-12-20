@@ -1,5 +1,5 @@
-# Наумов Никита Александрович 5 группа 3 курс
+https://github.com/solarywebster/mispis10/tree/master/screenshots
 
-* [Скрины](https://github.com/capti/mispis_lab10/tree/master/screens)
-* [Код](https://github.com/capti/mispis_lab10/tree/master/src/ru/vsu/cs/naumov)
-* [Visual Paradigm](https://github.com/capti/mispis_lab10/tree/master/vppproject)
+https://github.com/solarywebster/mispis10/tree/master/src/ru/vsu/cs/bazhanov
+
+https://github.com/solarywebster/mispis10/tree/master/visualparadigm
